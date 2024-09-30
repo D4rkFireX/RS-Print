@@ -1,0 +1,30 @@
+body{
+
+}
+
+
+main{
+    text-align: center;
+}
+
+
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+
+.pe{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 950px;
+}
+
+.informações a{
+    text-decoration: none;  
+}
+
+.informações img{
+    width: 25px;
+}
