@@ -48,13 +48,16 @@ main{
     text-align: center;
 }
 
+ul{
+    list-style: none;
+}
 
+ul li{
+    display: inline-block;
+    position: relative;
+}
 
-
-
-
-
-
+ul li a
 
 footer{
     display: flex;
