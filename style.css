@@ -48,6 +48,11 @@ main{
     text-align: center;
 }
 
+#caixacontato{
+    width: 50px;
+    background: transparent;
+}
+
 .dropbox{
     position: relative;
 }
@@ -63,11 +68,12 @@ main{
     display: block;
     border: 0px;
     height: 43px;
-    width: 160px;
+    width: 120px;
     font-weight: bolder;
 }
 
 .dropbox-conteudo a{
+    color: black;
     text-decoration: none;
 }
 
